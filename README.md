@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 
 
 ##  Installation
-# configuration 
+# configuration
   ### Database Configuration:
 
    Create a database named "dailyexpenses".
